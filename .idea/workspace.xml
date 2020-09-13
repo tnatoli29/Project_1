@@ -19,10 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13e4b881-3b45-4afc-adea-dd0457fc6429" name="Default Changelist" comment="TN 2nd commit, full 2019 merge data">
+    <list default="true" id="13e4b881-3b45-4afc-adea-dd0457fc6429" name="Default Changelist" comment="TN 5nd commit, cleaned column name">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CitiBike/CitiBike 2020 Merge.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CitiBike/CitiBike 2020 Merge.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Untitled Folder/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CitiBike/CitiBike 2019 Merge Data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CitiBike/CitiBike 2019 Merge Data.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599926571331</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="TN 4nd commit, gender column changed">
+      <created>1599932369072</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599932369072</updated>
+    </task>
+    <task id="LOCAL-00003" summary="TN 5nd commit, cleaned column name">
+      <created>1599933736292</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599933736292</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -75,17 +88,19 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="TN 1st commit, dependences and starting to merge data" />
     <MESSAGE value="TN 2nd commit, full 2019 merge data" />
-    <option name="LAST_COMMIT_MESSAGE" value="TN 2nd commit, full 2019 merge data" />
+    <MESSAGE value="TN 4nd commit, gender column changed" />
+    <MESSAGE value="TN 5nd commit, cleaned column name" />
+    <option name="LAST_COMMIT_MESSAGE" value="TN 5nd commit, cleaned column name" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2500" y="247" key="FileChooserDialogImpl" timestamp="1599831639862">
       <screen x="1920" y="0" width="1600" height="984" />
     </state>
     <state x="2500" y="247" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1600.984@1920.0.1600.984" timestamp="1599831639862" />
-    <state x="2314" y="253" key="Vcs.Push.Dialog.v2" timestamp="1599928361435">
+    <state x="2314" y="253" key="Vcs.Push.Dialog.v2" timestamp="1599933740310">
       <screen x="1920" y="0" width="1600" height="984" />
     </state>
-    <state x="2314" y="253" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1600.984@1920.0.1600.984" timestamp="1599928361435" />
+    <state x="2314" y="253" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1600.984@1920.0.1600.984" timestamp="1599933740310" />
     <state x="2537" y="406" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599928363438">
       <screen x="1920" y="0" width="1600" height="984" />
     </state>
