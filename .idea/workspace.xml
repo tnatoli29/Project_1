@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13e4b881-3b45-4afc-adea-dd0457fc6429" name="Default Changelist" comment="TN(master) 2019 full data">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CitiBike/Final 2019 Work.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CitiBike/Final 2019 Work.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="13e4b881-3b45-4afc-adea-dd0457fc6429" name="Default Changelist" comment="TN(master) 2020 full data" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +60,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600389623744</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="TN(master) 2020 full data">
+      <created>1600391978026</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600391978026</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,17 +86,18 @@
     <MESSAGE value="TN 1st commit, dependences and starting to merge data" />
     <MESSAGE value="TN 2nd commit, full 2019 merge data" />
     <MESSAGE value="TN(master) 2019 full data" />
-    <option name="LAST_COMMIT_MESSAGE" value="TN(master) 2019 full data" />
+    <MESSAGE value="TN(master) 2020 full data" />
+    <option name="LAST_COMMIT_MESSAGE" value="TN(master) 2020 full data" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2500" y="247" key="FileChooserDialogImpl" timestamp="1599831639862">
       <screen x="1920" y="0" width="1600" height="984" />
     </state>
     <state x="2500" y="247" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1600.984@1920.0.1600.984" timestamp="1599831639862" />
-    <state x="2314" y="253" key="Vcs.Push.Dialog.v2" timestamp="1600389890856">
+    <state x="2314" y="253" key="Vcs.Push.Dialog.v2" timestamp="1600392004965">
       <screen x="1920" y="0" width="1600" height="984" />
     </state>
-    <state x="2314" y="253" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1600.984@1920.0.1600.984" timestamp="1600389890856" />
+    <state x="2314" y="253" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1600.984@1920.0.1600.984" timestamp="1600392004965" />
     <state x="2537" y="406" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599928363438">
       <screen x="1920" y="0" width="1600" height="984" />
     </state>
